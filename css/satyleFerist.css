@@ -1,0 +1,12 @@
+
+.engineers{
+    background-color:transparent;
+    float: right;
+    width: 25%;
+    vertical-align:left;
+    margin:0 auto;
+    color: red;
+}
+.engineers img{
+    width: 60%;
+}
